@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540537989061",
+    "project_id": "new-raipur-home",
+    "storage_bucket": "new-raipur-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540537989061:android:ebdbc7a5740ad150660dac",
+        "android_client_info": {
+          "package_name": "com.raipur.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540537989061-gg5u194csvvqlb4jukad36l5tf2u0tc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpLRM9cQXrh9FfN_ShIVTey3X5z8zyRnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540537989061-gg5u194csvvqlb4jukad36l5tf2u0tc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
